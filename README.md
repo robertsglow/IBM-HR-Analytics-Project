@@ -8,6 +8,6 @@ I decided to play around with an HR Dataset called **IBM Data Science Datasets**
 
 **_Disclaimer_**
 
-This project is not in any way a real life project. _The dataset is a dummy Dataset that is intended to practice the capabilities of PowerBI and DAX_
+This project is not in any way a real life project. _The dataset is a dummy Dataset that is intended to practice the capabilities of PowerBI and DAX_ Now lets jump right in :collision:
 
 **Skills demostrated**
