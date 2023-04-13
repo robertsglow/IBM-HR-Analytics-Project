@@ -27,6 +27,7 @@ However, this documentation will cover every step that i carried out to ensure t
 
 **Modelling**: The Dataset is only a table, so there was no need for Data Modeling because there is no table that i was going to model it against.
 
+
 **Visualization**
 
 The report comprises of 3 pages which includes:
@@ -59,3 +60,13 @@ The Conditional statements that was written is as follows;
 :-------------------------------------------|:--------------------------------------
 ![](5-.png)                                 |![](6-.png)
 
+
+
+**5**                                       |                   **6**             
+:-------------------------------------------|:--------------------------------------
+![](7-.png)                                 |![](8-.png)
+
+
+![](9-.png)
+
+Finally, let me now go to the main body of work that consumed a lot of time and also involved critical thinking:see_no_evil:
