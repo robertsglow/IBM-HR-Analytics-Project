@@ -42,7 +42,8 @@ These contained Data enteries that were recorded in numerical form, and i needed
 
 Below is an image of what the columns looked like before Transformation
 
-![]()--------------------------|-----------------------------![]()
+**Column 1**                              **Column 2**
+![](1-.png)--------------------------|-----------------------------![](2-.png)
 
 
 
