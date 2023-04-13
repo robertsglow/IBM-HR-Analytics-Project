@@ -10,6 +10,10 @@ I decided to play around with an HR Dataset called **IBM Data Science Datasets**
 
 This project is not in any way a real life project. _The dataset is a dummy Dataset that is intended to practice the capabilities of PowerBI and DAX_. Now lets jump right in :collision:
 
+**Data Description**
+
+The Dataset consists of 1470 rows,
+
 **Problems Statement**
 
 1. The dataset contained more of numerical values that needed to be adjusted in order to gain meaningful insights.
@@ -110,7 +114,7 @@ Before                                           | After
 
 6. **Distance from Home Column** 
 
-This column contained numerical values as well that mere looking at it, one wouldnt think any meaningful information was going to be derived from it. A Conditional statement was also written which changed the numeric values to text form. Below is an iamge showing Transformation processes.
+This column contained numerical values as well that mere looking at it, one wouldnt think any meaningful information was going to be derived from it. A Conditional statement was also written which changed the numeric values to text form. Below is an imamge showing Transformation processes.
 
 Distance from Home                             | Distance Status
 :-------------------------------------|:----------------------------------------
