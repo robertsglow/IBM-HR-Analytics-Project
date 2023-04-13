@@ -69,4 +69,4 @@ The Conditional statements that was written is as follows;
 
 ![](9-.png)
 
-Finally, let me now go to the main body of work that consumed a lot of time and also involved critical thinking:see_no_evil:
+Finally, let me now jump right into the main body of work that consumed a lot of time and also involved critical thinking:see_no_evil:
