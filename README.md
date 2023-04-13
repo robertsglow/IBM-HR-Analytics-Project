@@ -114,7 +114,7 @@ Before                                           | After
 
 6. **Distance from Home Column** 
 
-This column contained numerical values as well that mere looking at it, one wouldnt think any meaningful information was going to be derived from it. A Conditional statement was also written which changed the numeric values to text form. Below is an imamge showing Transformation processes.
+This column contained numerical values as well that mere looking at it, one wouldnt think any meaningful information was going to be derived from it. A Conditional statement was also written which changed the numeric values to text form. Below is an image showing Transformation processes.
 
 Distance from Home                             | Distance Status
 :-------------------------------------|:----------------------------------------
