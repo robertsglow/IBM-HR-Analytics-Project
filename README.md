@@ -113,7 +113,7 @@ Before                                           | After
 
 The Final output after the conditional statement is below	:sunglasses:
 
-![](11_.png)
+![](11(new).png)
 
 6. **Distance from Home Column** 
 
@@ -121,5 +121,6 @@ This column contained numerical values as well that mere looking at it, one woul
 
 Distance from Home                             | Distance Status
 :-------------------------------------|:----------------------------------------
-![]()                                |![]()
+![](12-.png)                                |![](13-.png)
 
+Indeed a lot of beautiful insights can be gotten from this Dataset, if only one is able to calm down, relax and think :monocle_face:	
