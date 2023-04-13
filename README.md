@@ -109,8 +109,11 @@ Informations in this column were in numerical form, i did not like the way it ap
 
 Before                                           | After
 :---------------------------------------------|:-----------------------------------------------
-![]()                                       | ![]()
+![](10-.png)                                       | ![](11-.png)
 
+The Final output after the conditional statement is below	:sunglasses:
+
+![](11_.png)
 
 6. **Distance from Home Column** 
 
