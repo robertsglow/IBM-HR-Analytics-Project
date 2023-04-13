@@ -74,15 +74,18 @@ Finally, let me now jump right into the main body of work that consumed a lot of
 After the Conditional statements, the next on the list is to group my Age column into different categories in order to gain insights.Below is the IF statement that was written. The Age bracket includes ages between 18-60. 
 
 1.** Age Column**
+
 Age range = IF(HR_Info[Age]>=18&&HR_Info[Age]<=20,"Under age",IF(HR_Info[Age]>=21&&HR_Info[Age]<=30,"Middle age",IF(HR_Info[Age]>=31&&HR_Info[Age]<=40,"Mature age",IF(HR_Info[Age]>=41&&HR_Info[Age]<=50,"Senior age","old age"))))
 
 
 2. **Employee Count**
+
 I wanted to know the total number of Employees that is in the Dataset. A DAX measure was created to get this.
 
 Total Employee = COUNTROWS(HR_Info)
 
 3. **Male/Female Column**
+
 The dataset contained a Gender column. I wanted to know the total number of Males and Females in the dataset so Measures were created in respect to this in order to gain Insights. More like we have to filter our dataset to calculate the total number of Males and Females in the Organization.
 
 Female = CALCULATE([Total Employee],HR_Info[Gender]="Female") 
@@ -90,12 +93,14 @@ Male = CALCULATE([Total Employee],HR_Info[Gender]="Male")
 
 
 4. **Attrition Column**
+
 This column contained a YES/NO information. I wanted to know the percentage of Employees that have left the Organization. DAX measures were applied in order to get this information.
 
 Attrition Rate = DIVIDE(COUNTROWS(FILTER('HR_Info', 'HR_Info'[Attrition] = "Yes")), COUNTROWS('HR_Info'))
 
 
 5. **Years_since last Promotion Column**
+
 Informations in this column were in numerical form, i did not like the way it appeared because i obviously would notbe able to gain any insights from it. So i decided to use a Conditional Statement that will categorize my values into 3 different statements. Below is a snippet of what the Before and After transformation looked like.
 
 Before                                           | After
@@ -104,6 +109,7 @@ Before                                           | After
 
 
 6. **Distance from Home Column** 
+
 This column contained numerical values as well that mere looking at it, one wouldnt think any meaningful information was going to be derived from it. A Conditional statement was also written which changed the numeric values to text form. Below is an iamge showing Transformation processes.
 
 Distance from Home                             | Distance Status
