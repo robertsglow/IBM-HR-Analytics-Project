@@ -38,14 +38,18 @@ The report comprises of 3 pages which includes:
 
 **Education Column, Environmental satisfaction, Job involvement, Job satisafaction, Performance rating, Relationship satisfaction, Work life balance**. 
 
-These contained Data enteries that were recorded in numerical form, and i needed to change it to a text form in order to gain meaningful insights from it. A conditional column was applied here. I am going to attach images of the conditional statement that i wrote that changed the numerical information to text values.
+These contained Data enteries that were recorded in numerical form, and i needed to change it to a text form in order to gain meaningful insights from it when visualizing. A conditional column statement was applied here. I am going to attach images of the Before Columns and the Conditional statement that i wrote to change the numerical information to text values.
 
-Below is an image of what the columns looked like before Transformation
+Below is an image of what the columns looked like before Transformation :point_down:
 
-**Column 1**                              **Column 2**
-![](1-.png)--------------------------|-----------------------------![](2-.png)
+**Column 1**                                   | **Column 2**
+:----------------------------------------------|:--------------------------------
+![](1-.png)                                    |              ![](2-.png)
 
 
+The Conditional statements that was written is as follows;
 
+**1**                                       |                   **2**             
+:-------------------------------------------|:--------------------------------------
 
 
