@@ -127,7 +127,7 @@ Indeed a lot of beautiful insights can be gotten from this Dataset, if only one 
 
 7. **Years at Company** 
 
-Here, values in the dataset were numeric and it looked like i was not going to get any meaningful information from it. So i decided to use a Column from Example function,which turned the before column into a meaningful information and in turn add text values to corroborate the previous information and i also gave it a new Column name.
+Here, values in the dataset were numeric and it looked like i was not going to get any meaningful information from it. So i decided to use a Column from Example function,which turned the before column into  meaningful information and in turn i added text values to corroborate the previous information and i also gave it a new Column name. The Column from Example function works like a flashfill, once a value is true it automatically recognizes other values and it fills it down. see below:point down:  
 
 
 Years at company                         | Service years
