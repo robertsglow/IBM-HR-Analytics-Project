@@ -140,3 +140,7 @@ There we have it:wink:i can visualize my Service years column against other metr
 **Job Levels** 
 This Column contained numerical values, this error could occur as a result of wrong Data entry.I needed to gain more insights from the Column, so i decided to use the Column from Example function to retrieve the initial values and still add texts values to corroborate it. We already know how the Column from example works:innocent: Below is the Transformation process
 
+Before                                  | After
+:---------------------------------------|:--------------------------------------
+![]()                                   |               ![]()
+
