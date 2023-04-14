@@ -144,3 +144,5 @@ Before                                  | After
 :---------------------------------------|:--------------------------------------
 ![](17.png.png)                                   |               ![](16.png)
 
+Looks like we are done:relieved: Now let us **Visualize our Data** 
+
