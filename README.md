@@ -105,7 +105,7 @@ Attrition Rate = DIVIDE(COUNTROWS(FILTER('HR_Info', 'HR_Info'[Attrition] = "Yes"
 
 5. **Years_since last Promotion Column**
 
-Informations in this column were in numerical form, i did not like the way it appeared because i obviously would notbe able to gain any insights from it. So i decided to use a Conditional Statement that will categorize my values into 3 different statements. Below is a snippet of what the Before and After transformation looked like.
+Informations in this column were in numerical form, i did not like the way it appeared because i obviously would not be able to gain any insights from it. So i decided to use a Conditional Statement that will categorize my values into 3 different statements. Below is a snippet of what the Before and After transformation looked like.
 
 Before                                           | After
 :---------------------------------------------|:-----------------------------------------------
