@@ -123,4 +123,17 @@ Distance from Home                             | Distance Status
 :-------------------------------------|:----------------------------------------
 ![](12-.png)                                |![](13-.png)
 
-Indeed a lot of beautiful insights can be gotten from this Dataset, if only one is able to calm down, relax and think :monocle_face:	
+Indeed a lot of beautiful insights can be gotten from this Dataset, if only one is able to calm down, relax and think :monocle_face:
+
+7. **Years at Company** 
+
+Here, values in the dataset were numeric and it looked like i was not going to get any meaningful information from it. So i decided to use a Column from Example function,which turned the before column into a meaningful information and in turn add text values to corroborate the previous information and i also gave it a new Column name.
+
+
+Years at company                         | Service years
+:----------------------------------------|:-----------------------------------------------
+![](14-.png)                                    |![](15-.png)
+
+There we have it:wink:i can visualize my Service years column against other metrics and it will give me more meaningful insights.
+
+
