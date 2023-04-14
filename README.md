@@ -12,7 +12,7 @@ This project is not in any way a real life project. _The dataset is a dummy Data
 
 **Data Description**
 
-The Dataset consists of 1470 rows,
+The Dataset consists of 1470 rows and 35 Columns respectively.
 
 **Problems Statement**
 
