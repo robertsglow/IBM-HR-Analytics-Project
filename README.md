@@ -148,12 +148,6 @@ Before                                  | After
 Looks like we are done:relieved: Now let us **Visualize our Data** 
 
 
-![](18_.png)
 
-
-![](19_.png)
-
-
-![](20_.png)
 
 
