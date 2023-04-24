@@ -33,10 +33,9 @@ However, this documentation will cover every step that i carried out to ensure t
 
 **Visualization**
 
-The report comprises of 3 pages which includes:
+The report comprises of 2 pages which includes:
 - Overview Page
-- Action Page
-- Attrition Page
+- Employee Demo Page
 
 **Data Manipulation/Transformation Process**
 
@@ -147,6 +146,11 @@ Before                                  | After
 Looks like we are done:relieved: Now let us **Visualize our Data** 
 
 
+![](21_.png)
 
 
+![](22_.png)
 
+The Visualization was based on how Attrition rate affects all other metrics.
+
+Thank you for staying tuned, see you next time :wink:
