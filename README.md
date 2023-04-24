@@ -24,7 +24,6 @@ However, this documentation will cover every step that i carried out to ensure t
 
 **Skills Demostrated**
 - DAX
-- Page Navigation
 - Filters
 - Buttons
 - New Measures
